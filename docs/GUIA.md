@@ -39,7 +39,7 @@ Al abrir index.html en el navegador, la pagina deberia verse con los colores del
 
 ## Captura del trabajo
 
-![Pantalla principal del proyecto](tienda-tecsup.PNG)
+![Pantalla principal del proyecto](/img/tienda-tecsup.PNG)
 
 ## Comandos más usados
 
